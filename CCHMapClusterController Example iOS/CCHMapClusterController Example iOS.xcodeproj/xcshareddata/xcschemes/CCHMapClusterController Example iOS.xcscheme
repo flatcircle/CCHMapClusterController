@@ -39,6 +39,16 @@
                ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "57F5AC171DD3141100FBB6DA"
+               BuildableName = "CCHMapClusterControllerTests.xctest"
+               BlueprintName = "CCHMapClusterControllerTests"
+               ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
