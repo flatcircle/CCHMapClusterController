@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57F5AC0F1DD3141100FBB6DA"
-               BuildableName = "CCHMapClusterController.framework"
-               BlueprintName = "CCHMapClusterController"
+               BuildableName = "CCHMapClusterKit.framework"
+               BlueprintName = "CCHMapClusterKit"
                ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "57F5AC0F1DD3141100FBB6DA"
-            BuildableName = "CCHMapClusterController.framework"
-            BlueprintName = "CCHMapClusterController"
+            BuildableName = "CCHMapClusterKit.framework"
+            BlueprintName = "CCHMapClusterKit"
             ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "57F5AC0F1DD3141100FBB6DA"
-            BuildableName = "CCHMapClusterController.framework"
-            BlueprintName = "CCHMapClusterController"
+            BuildableName = "CCHMapClusterKit.framework"
+            BlueprintName = "CCHMapClusterKit"
             ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
