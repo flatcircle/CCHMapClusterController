@@ -26,30 +26,30 @@
 		57F5AC221DD3141200FBB6DA /* CCHMapClusterController.h in Headers */ = {isa = PBXBuildFile; fileRef = 57F5AC121DD3141100FBB6DA /* CCHMapClusterController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC251DD3141200FBB6DA /* CCHMapClusterController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57F5AC101DD3141100FBB6DA /* CCHMapClusterController.framework */; };
 		57F5AC261DD3141200FBB6DA /* CCHMapClusterController.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 57F5AC101DD3141100FBB6DA /* CCHMapClusterController.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		57F5AC2E1DD3142F00FBB6DA /* CCHMapClusterAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C51845F8A40046D5D5 /* CCHMapClusterAnnotation.h */; };
+		57F5AC2E1DD3142F00FBB6DA /* CCHMapClusterAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C51845F8A40046D5D5 /* CCHMapClusterAnnotation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC2F1DD3142F00FBB6DA /* CCHMapClusterAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 62D667C61845F8A40046D5D5 /* CCHMapClusterAnnotation.m */; };
-		57F5AC301DD3142F00FBB6DA /* CCHMapClusterController.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C71845F8A40046D5D5 /* CCHMapClusterController.h */; };
+		57F5AC301DD3142F00FBB6DA /* CCHMapClusterController.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C71845F8A40046D5D5 /* CCHMapClusterController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC311DD3142F00FBB6DA /* CCHMapClusterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62D667C81845F8A40046D5D5 /* CCHMapClusterController.m */; };
-		57F5AC321DD3142F00FBB6DA /* CCHMapClusterControllerDebugPolygon.h in Headers */ = {isa = PBXBuildFile; fileRef = 6222E32718BA61290045A528 /* CCHMapClusterControllerDebugPolygon.h */; };
+		57F5AC321DD3142F00FBB6DA /* CCHMapClusterControllerDebugPolygon.h in Headers */ = {isa = PBXBuildFile; fileRef = 6222E32718BA61290045A528 /* CCHMapClusterControllerDebugPolygon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC331DD3142F00FBB6DA /* CCHMapClusterControllerDebugPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = 6222E32818BA61290045A528 /* CCHMapClusterControllerDebugPolygon.m */; };
-		57F5AC341DD3142F00FBB6DA /* CCHMapClusterControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C91845F8A40046D5D5 /* CCHMapClusterControllerDelegate.h */; };
-		57F5AC351DD3142F00FBB6DA /* CCHMapClusterControllerUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667CA1845F8A40046D5D5 /* CCHMapClusterControllerUtils.h */; };
+		57F5AC341DD3142F00FBB6DA /* CCHMapClusterControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667C91845F8A40046D5D5 /* CCHMapClusterControllerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		57F5AC351DD3142F00FBB6DA /* CCHMapClusterControllerUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667CA1845F8A40046D5D5 /* CCHMapClusterControllerUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC361DD3142F00FBB6DA /* CCHMapClusterControllerUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 62D667CB1845F8A40046D5D5 /* CCHMapClusterControllerUtils.m */; };
-		57F5AC371DD3142F00FBB6DA /* CCHMapClusterOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C49A7618E75033000BC5CD /* CCHMapClusterOperation.h */; };
+		57F5AC371DD3142F00FBB6DA /* CCHMapClusterOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C49A7618E75033000BC5CD /* CCHMapClusterOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC381DD3142F00FBB6DA /* CCHMapClusterOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 62C49A7718E75033000BC5CD /* CCHMapClusterOperation.m */; };
-		57F5AC391DD3142F00FBB6DA /* CCHMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F180184FC1E700251ADC /* CCHMapClusterer.h */; };
-		57F5AC3A1DD3142F00FBB6DA /* CCHNearCenterMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F181184FC4CC00251ADC /* CCHNearCenterMapClusterer.h */; };
+		57F5AC391DD3142F00FBB6DA /* CCHMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F180184FC1E700251ADC /* CCHMapClusterer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		57F5AC3A1DD3142F00FBB6DA /* CCHNearCenterMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F181184FC4CC00251ADC /* CCHNearCenterMapClusterer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC3B1DD3142F00FBB6DA /* CCHNearCenterMapClusterer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4869F182184FC4CC00251ADC /* CCHNearCenterMapClusterer.m */; };
-		57F5AC3C1DD3142F00FBB6DA /* CCHCenterOfMassMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F184184FD5F000251ADC /* CCHCenterOfMassMapClusterer.h */; };
+		57F5AC3C1DD3142F00FBB6DA /* CCHCenterOfMassMapClusterer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F184184FD5F000251ADC /* CCHCenterOfMassMapClusterer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC3D1DD3142F00FBB6DA /* CCHCenterOfMassMapClusterer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4869F185184FD5F100251ADC /* CCHCenterOfMassMapClusterer.m */; };
-		57F5AC3E1DD3142F00FBB6DA /* CCHMapAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F19918536E3000251ADC /* CCHMapAnimator.h */; };
-		57F5AC3F1DD3142F00FBB6DA /* CCHFadeInOutMapAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F19A18536E6700251ADC /* CCHFadeInOutMapAnimator.h */; };
+		57F5AC3E1DD3142F00FBB6DA /* CCHMapAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F19918536E3000251ADC /* CCHMapAnimator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		57F5AC3F1DD3142F00FBB6DA /* CCHFadeInOutMapAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = 4869F19A18536E6700251ADC /* CCHFadeInOutMapAnimator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC401DD3142F00FBB6DA /* CCHFadeInOutMapAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4869F19B18536E6700251ADC /* CCHFadeInOutMapAnimator.m */; };
-		57F5AC411DD3142F00FBB6DA /* CCHMapViewDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667CC1845F8A40046D5D5 /* CCHMapViewDelegateProxy.h */; };
+		57F5AC411DD3142F00FBB6DA /* CCHMapViewDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D667CC1845F8A40046D5D5 /* CCHMapViewDelegateProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC421DD3142F00FBB6DA /* CCHMapViewDelegateProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 62D667CD1845F8A40046D5D5 /* CCHMapViewDelegateProxy.m */; };
-		57F5AC431DD3142F00FBB6DA /* CCHMapTree.h in Headers */ = {isa = PBXBuildFile; fileRef = 4889995B185D1C1300F3D6ED /* CCHMapTree.h */; };
+		57F5AC431DD3142F00FBB6DA /* CCHMapTree.h in Headers */ = {isa = PBXBuildFile; fileRef = 4889995B185D1C1300F3D6ED /* CCHMapTree.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC441DD3142F00FBB6DA /* CCHMapTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 4889995C185D1C1300F3D6ED /* CCHMapTree.m */; };
-		57F5AC451DD3142F00FBB6DA /* CCHMapTreeUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 48899964185E398700F3D6ED /* CCHMapTreeUtils.h */; };
+		57F5AC451DD3142F00FBB6DA /* CCHMapTreeUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 48899964185E398700F3D6ED /* CCHMapTreeUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57F5AC461DD3142F00FBB6DA /* CCHMapTreeUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 48899965185E398700F3D6ED /* CCHMapTreeUtils.m */; };
 		6217D6EF18BDD97400CDB8C3 /* CCHCenterOfMassMapClustererTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6217D6E518BDD97400CDB8C3 /* CCHCenterOfMassMapClustererTests.m */; };
 		6217D6F018BDD97400CDB8C3 /* CCHFadeInOutMapAnimatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6217D6E618BDD97400CDB8C3 /* CCHFadeInOutMapAnimatorTests.m */; };
@@ -1043,6 +1043,7 @@
 				57F5AC281DD3141200FBB6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		57F5AC2D1DD3141200FBB6DA /* Build configuration list for PBXNativeTarget "CCHMapClusterControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -1051,6 +1052,7 @@
 				57F5AC2A1DD3141200FBB6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		62D6677A1845E0F20046D5D5 /* Build configuration list for PBXProject "CCHMapClusterController Example iOS" */ = {
 			isa = XCConfigurationList;
